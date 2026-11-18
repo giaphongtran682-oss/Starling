@@ -1,0 +1,19 @@
+CHRISTMAS CELEBRATION 2026 – STARLIGHT EDITION
+
+CẬP NHẬT GIAO DIỆN
+- index.html: giao diện đêm Giáng Sinh, nền ảnh mẫu đã xử lý bỏ thanh trạng thái và thanh nhạc nằm trong ảnh; tuyết 3 lớp, cực quang, sao băng, xe tuần lộc SVG bay chậm, sticker trang trí, hiệu ứng tương tác.
+- admin.html: giữ nguyên từ bản gốc.
+- music/noel.mp3: giữ nguyên nhạc nền từ bản gốc.
+- sql/CAI-DAT-NHAC-NOEL.sql: giữ nguyên từ bản gốc.
+- assets/christmas-night-bg.webp: ảnh nền đã cắt từ ảnh mẫu người dùng gửi.
+
+CÁCH CẬP NHẬT
+1. Giải nén toàn bộ ZIP.
+2. Tải lên hosting toàn bộ nội dung, giữ nguyên cấu trúc thư mục.
+3. Đảm bảo thư mục music/ và assets/ nằm cùng cấp với index.html.
+4. Không xóa admin.html, music/noel.mp3 hoặc các file SQL hiện có.
+
+LƯU Ý ÂM THANH
+Trình duyệt iPhone/Safari có thể chặn tự phát nhạc có tiếng trước khi khách tương tác. Website sẽ thử tự phát; nếu bị chặn, nhạc sẽ bắt đầu khi khách chạm màn hình lần đầu. Nút nhạc riêng ở góc dưới phải cho phép bật/tắt và chỉnh âm lượng.
+
+Các chức năng đặt lịch, chọn quà, tra cứu đơn và quản trị được giữ nguyên mã nguồn gốc.
